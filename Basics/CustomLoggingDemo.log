@@ -1,0 +1,5 @@
+15-05-2019 07:27:34 PM - CustomLoggingDemo - DEBUG : This is a DEBUG message
+15-05-2019 07:27:34 PM - CustomLoggingDemo - INFO : This is a INFO message
+15-05-2019 07:27:34 PM - CustomLoggingDemo - WARNING : This is a WARNING message
+15-05-2019 07:27:34 PM - CustomLoggingDemo - ERROR : This is a ERROR message
+15-05-2019 07:27:34 PM - CustomLoggingDemo - CRITICAL : This is a CRITICAL message

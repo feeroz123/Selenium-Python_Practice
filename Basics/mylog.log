@@ -1,0 +1,14 @@
+CRITICAL:root:--------------------------------------------------
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+CRITICAL:root:--------------------------------------------------
+INFO:root:This is a debug message
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+2019-05-15 15:05:01,410: CRITICAL: --------------------------------------------------
+2019-05-15 15:05:01,410: INFO: This is a debug message
+2019-05-15 15:05:01,410: WARNING: This is a warning message
+2019-05-15 15:05:01,410: ERROR: This is an error message
+2019-05-15 15:05:01,410: CRITICAL: This is a critical message

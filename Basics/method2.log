@@ -1,0 +1,4 @@
+15-05-2019 07:27:34 PM - method2 - INFO : This is a INFO message
+15-05-2019 07:27:34 PM - method2 - WARNING : This is a WARNING message
+15-05-2019 07:27:34 PM - method2 - ERROR : This is a ERROR message
+15-05-2019 07:27:34 PM - method2 - CRITICAL : This is a CRITICAL message
